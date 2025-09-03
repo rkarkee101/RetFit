@@ -186,8 +186,6 @@ Each scenario adjusts efficiency & envelope/control factors:
 
 ---
 
-## License
-MIT (or your preferred license)
 
 ## Acknowledgements
 Weather data by [Meteostat](https://meteostat.net/).
