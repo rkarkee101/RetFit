@@ -1,0 +1,46 @@
+Baseline Total: 211374 kWh  ($31,706)
+  Heating=105, Cooling=12215, Lighting=166756, Equipment=31289, Fans=1008
+
+Baseline Monthly (local months):
+  01: Heat=79 kWh, Cool=0 kWh, Light=15675 kWh, Equip=2805 kWh, Fans=117 kWh, Total=18676 kWh
+  02: Heat=10 kWh, Cool=0 kWh, Light=13859 kWh, Equip=2207 kWh, Fans=87 kWh, Total=16162 kWh
+  03: Heat=4 kWh, Cool=0 kWh, Light=14332 kWh, Equip=2522 kWh, Fans=100 kWh, Total=16957 kWh
+  04: Heat=0 kWh, Cool=112 kWh, Light=12848 kWh, Equip=2441 kWh, Fans=72 kWh, Total=15473 kWh
+  05: Heat=0 kWh, Cool=42 kWh, Light=13070 kWh, Equip=3071 kWh, Fans=103 kWh, Total=16285 kWh
+  06: Heat=0 kWh, Cool=1058 kWh, Light=12648 kWh, Equip=2972 kWh, Fans=68 kWh, Total=16746 kWh
+  07: Heat=0 kWh, Cool=3055 kWh, Light=12428 kWh, Equip=2451 kWh, Fans=86 kWh, Total=18021 kWh
+  08: Heat=0 kWh, Cool=3657 kWh, Light=12832 kWh, Equip=2522 kWh, Fans=88 kWh, Total=19099 kWh
+  09: Heat=0 kWh, Cool=2920 kWh, Light=13548 kWh, Equip=2972 kWh, Fans=87 kWh, Total=19527 kWh
+  10: Heat=3 kWh, Cool=1343 kWh, Light=14480 kWh, Equip=3071 kWh, Fans=78 kWh, Total=18975 kWh
+  11: Heat=1 kWh, Cool=28 kWh, Light=15402 kWh, Equip=2300 kWh, Fans=54 kWh, Total=17785 kWh
+  12: Heat=7 kWh, Cool=0 kWh, Light=15635 kWh, Equip=1956 kWh, Fans=70 kWh, Total=17668 kWh
+
+HVAC Upgrade: 208250 kWh  ($31,238)
+  Savings vs Base: 3124 kWh (1.5%), $469/yr
+  Simple Payback: CAPEX=$120,000 â†’ 256.1 years
+  Breakdown: H=35, C=9162, L=166756, E=31289, F=1008
+
+Lighting Upgrade: 194716 kWh  ($29,207)
+  Savings vs Base: 16659 kWh (7.9%), $2,499/yr
+  Simple Payback: CAPEX=$60,000 â†’ 24.0 years
+  Breakdown: H=205, C=11075, L=151138, E=31289, F=1008
+
+Envelope Upgrade: 210665 kWh  ($31,600)
+  Savings vs Base: 710 kWh (0.3%), $106/yr
+  Simple Payback: CAPEX=$80,000 â†’ 751.7 years
+  Breakdown: H=11, C=11600, L=166756, E=31289, F=1008
+
+Infiltration Reduction: 210129 kWh  ($31,519)
+  Savings vs Base: 1246 kWh (0.6%), $187/yr
+  Simple Payback: CAPEX=$40,000 â†’ 214.1 years
+  Breakdown: H=11, C=11063, L=166756, E=31289, F=1008
+
+Fan Upgrade: 210971 kWh  ($31,646)
+  Savings vs Base: 403 kWh (0.2%), $61/yr
+  Simple Payback: CAPEX=$25,000 â†’ 413.2 years
+  Breakdown: H=105, C=12215, L=166756, E=31289, F=605
+
+All Combined: 190013 kWh  ($28,502)
+  Savings vs Base: 21361 kWh (10.1%), $3,204/yr
+  Simple Payback: CAPEX=$325,000 â†’ 101.4 years
+  Breakdown: H=0, C=6980, L=151138, E=31289, F=605
