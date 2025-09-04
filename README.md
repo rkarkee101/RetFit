@@ -1,4 +1,4 @@
-# PyRetFit
+# RetFit (Inital version of PyRetFit)
 
 
 # Retrofit-Focused Building Energy Simulation (Hourly)
